@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: d3d09922e79344c4091ede21f9b854f7
+timeCreated: 1535681616
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arch40_010
+    100002: arch40_011
+    100004: arch40_012
+    100006: arch40_013
+    100008: arch40_014
+    100010: arch40_015
+    100012: arch40_016
+    100014: arch40_017
+    100016: arch40_018
+    100018: arch40_019
+    100020: arch40_020
+    100022: arch40_021
+    100024: Box04
+    100026: Box48
+    100028: //RootNode
+    100030: Cylinder01
+    100032: Cylinder02
+    100034: Cylinder03
+    100036: Cylinder09
+    100038: Line16
+    100040: Line16.Li0
+    100042: Line16.Li1
+    100044: Line16.Lin
+    100046: Rectangle6
+    100048: Shape12
+    100050: Shape12.S0
+    100052: Shape12.S1
+    100054: Shape12.Sh
+    400000: arch40_010
+    400002: arch40_011
+    400004: arch40_012
+    400006: arch40_013
+    400008: arch40_014
+    400010: arch40_015
+    400012: arch40_016
+    400014: arch40_017
+    400016: arch40_018
+    400018: arch40_019
+    400020: arch40_020
+    400022: arch40_021
+    400024: Box04
+    400026: Box48
+    400028: //RootNode
+    400030: Cylinder01
+    400032: Cylinder02
+    400034: Cylinder03
+    400036: Cylinder09
+    400038: Line16
+    400040: Line16.Li0
+    400042: Line16.Li1
+    400044: Line16.Lin
+    400046: Rectangle6
+    400048: Shape12
+    400050: Shape12.S0
+    400052: Shape12.S1
+    400054: Shape12.Sh
+    2300000: arch40_010
+    2300002: arch40_011
+    2300004: arch40_012
+    2300006: arch40_013
+    2300008: arch40_014
+    2300010: arch40_015
+    2300012: arch40_016
+    2300014: arch40_017
+    2300016: arch40_018
+    2300018: arch40_019
+    2300020: arch40_020
+    2300022: arch40_021
+    2300024: Box04
+    2300026: Box48
+    2300028: Cylinder01
+    2300030: Cylinder02
+    2300032: Cylinder03
+    2300034: Cylinder09
+    2300036: Line16
+    2300038: Line16.Li0
+    2300040: Line16.Li1
+    2300042: Line16.Lin
+    2300044: Rectangle6
+    2300046: Shape12
+    2300048: Shape12.S0
+    2300050: Shape12.S1
+    2300052: Shape12.Sh
+    3300000: arch40_010
+    3300002: arch40_011
+    3300004: arch40_012
+    3300006: arch40_013
+    3300008: arch40_014
+    3300010: arch40_015
+    3300012: arch40_016
+    3300014: arch40_017
+    3300016: arch40_018
+    3300018: arch40_019
+    3300020: arch40_020
+    3300022: arch40_021
+    3300024: Box04
+    3300026: Box48
+    3300028: Cylinder01
+    3300030: Cylinder02
+    3300032: Cylinder03
+    3300034: Cylinder09
+    3300036: Line16
+    3300038: Line16.Li0
+    3300040: Line16.Li1
+    3300042: Line16.Lin
+    3300044: Rectangle6
+    3300046: Shape12
+    3300048: Shape12.S0
+    3300050: Shape12.S1
+    3300052: Shape12.Sh
+    4300000: Box48
+    4300002: Box04
+    4300004: Shape12.S1
+    4300006: Line16.Li1
+    4300008: Line16.Li0
+    4300010: Shape12.S0
+    4300012: Cylinder02
+    4300014: Shape12
+    4300016: Line16
+    4300018: Line16.Lin
+    4300020: Shape12.Sh
+    4300022: Cylinder01
+    4300024: Cylinder03
+    4300026: Cylinder09
+    4300028: Rectangle6
+    4300030: arch40_021
+    4300032: arch40_020
+    4300034: arch40_019
+    4300036: arch40_018
+    4300038: arch40_017
+    4300040: arch40_016
+    4300042: arch40_015
+    4300044: arch40_014
+    4300046: arch40_013
+    4300048: arch40_011
+    4300050: arch40_010
+    4300052: arch40_012
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
